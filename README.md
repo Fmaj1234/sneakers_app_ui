@@ -1,16 +1,11 @@
 # sneakers_app_ui
 
-A new Flutter project.
+A preview of the app
 
-## Getting Started
+https://github.com/Fmaj1234/sneakers_app_ui/assets/49940296/8ab45493-c905-4088-9239-39df8d0130da
 
-This project is a starting point for a Flutter application.
+![Screenshot_20230822-030408_iphone13blue_portrait](https://github.com/Fmaj1234/sneakers_app_ui/assets/49940296/c945f970-adc7-4481-b565-a5bca872fba6)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20230822-030417_iphone13blue_portrait](https://github.com/Fmaj1234/sneakers_app_ui/assets/49940296/a2e920e9-29fa-4846-9d04-687b4705cf0e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230822-030427_iphone13blue_portrait](https://github.com/Fmaj1234/sneakers_app_ui/assets/49940296/ae51237f-81af-40d4-87da-2b7fbb4cd077)
